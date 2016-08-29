@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ListCellController.cs" />
      <Compile Include="Assets\ListViewController.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity 5.4.0 f3/Unity new.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
